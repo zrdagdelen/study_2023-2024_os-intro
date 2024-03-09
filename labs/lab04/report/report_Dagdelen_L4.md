@@ -270,4 +270,4 @@ header-includes:
 
 # Список литературы{.unnumbered}
 
-(Операционные системы)[https://esystem.rudn.ru/mod/page/view.php?id=1098794]
+[Операционные системы](https://esystem.rudn.ru/mod/page/view.php?id=1098794)
