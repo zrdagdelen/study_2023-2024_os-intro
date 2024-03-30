@@ -1,8 +1,8 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Структура научной презентации
-subtitle: Простейший шаблон
+title: Лабораторная работа №9
+subtitle: Командная оболочка Midnight Commander
 author:
   - Дагделен З. Р.
 institute:
